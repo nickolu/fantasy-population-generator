@@ -1,0 +1,2 @@
+class FantasyRace(object):
+    pass

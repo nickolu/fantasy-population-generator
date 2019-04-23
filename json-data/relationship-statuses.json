@@ -1,0 +1,21 @@
+{
+    "platonic": [
+        "friends",
+        "acquaintances",
+        "close friends",
+        "old friends",
+        "former friends",
+        "enemies",
+        "rivals",
+        "arch-nemesis"
+    ],
+    "romantic": [
+        "have dated",
+        "had an intimate romantic relationship",
+        "were fond of each other from afar",
+        "one had unreciprocated feelings for the other",
+        "were expected to be married",
+        "had a secret relationship",
+        "had an affair together"
+    ]
+}
